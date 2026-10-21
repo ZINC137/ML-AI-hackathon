@@ -1,6 +1,6 @@
 # ML.ai Hackathon 2026 — IIT Guwahati
 
-Participated in the **ML.ai Hackathon 2026**, a machine learning competition focused on predicting video game revenue using historical data and feature engineering.
+Participated in the **ML.ai Hackathon 2026**, a machine learning competition focused on predicting video game revenue using historical data and feature engineering.Most Prolly my first Hackathon🙃!, could have done better ig!🥹.
 
 ## Objective
 Build a predictive ML model to estimate the ultimate revenue of video games using metadata, critic and user reviews, platform capabilities, and publisher history.
@@ -17,7 +17,7 @@ Build a predictive ML model to estimate the ultimate revenue of video games usin
 - Pandas, NumPy
 - Matplotlib
 - Scikit-learn
-- CatBoost / XGBoost
+- CatBoost / RandomForest
 
 ## Competition
 [Kaggle — ML.ai Hackathon 2026](https://www.kaggle.com/competitions/ml-ai-hackathon-2026)
